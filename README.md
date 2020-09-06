@@ -1,3 +1,5 @@
+> This project is practice from tutorial https://ibaslogic.com/css-in-reactjs-app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
